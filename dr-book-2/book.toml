@@ -1,0 +1,13 @@
+[book]
+authors = ["Brett Chalupa", "Dragon Rider Community"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Building Games with DragonRuby: Dragon's Keep"
+description = "A free book about building an advanced top-down shooter with DragonRuby Game Toolkit 7."
+
+[output.html]
+git-repository-url = "https://github.com/DragonRidersUnite/dr-book-2"
+
+[output.html.print]
+enable = false
